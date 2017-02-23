@@ -2,7 +2,8 @@
 Package and CLI for removing Vietnamese accents from text
 
 ## accent CLI
-Install and use:
+[Download](https://github.com/michlabs/accent/releases/tag/1.0) or 
+Install from source code:
 ```go
 $ export GOPATH=$(pwd)
 $ export PATH=$PATH:$GOPATH/bin
