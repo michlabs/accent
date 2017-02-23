@@ -13,4 +13,4 @@ $ accent remove -i input.txt -o output.txt
 
 ## accent package
 Usage:
-    See [godoc.org](http://godoc.org/michlabs/accent)
+    See [godoc.org](http://godoc.org/github.com/michlabs/accent)
